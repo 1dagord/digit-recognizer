@@ -449,4 +449,5 @@ FodyWeavers.xsd
 *.sln.iml
 
 # ----- Custom -----
-.ipynb_checkpoints
+.ipynb_checkpoints/
+index.txt
