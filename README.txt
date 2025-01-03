@@ -1,5 +1,7 @@
 Digit Recognizer
 
+Data obtained from https://www.kaggle.com/competitions/digit-recognizer/data?select=train.csv
+
 Inputs: 60000 28x28-pixel images of handwritten digit
 Outputs: One-hot encoded digit 0-9
 
